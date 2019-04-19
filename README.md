@@ -2,7 +2,7 @@
 
 This repository contains python notebooks of some machine learning algorithms for better understanding.
 
-**Datasets**:
+**Notebooks**:
 1. [Dictionary learning](notebooks/Dictionary_Learning.ipynb): contains the following
     - The Iterative Shrinkage and Thresholding Algorithm (ISTA)
     - The Coordinate Descent (CD) algorithm for $\ell_1$ sparse coding
