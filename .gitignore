@@ -1,1 +1,5 @@
 notebooks/.*
+notebooks/10X*
+notebooks/103*
+notebooks/104*
+notebooks/105*

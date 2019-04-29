@@ -1,19 +1,26 @@
 # Exploring machine learning techniques
 
-This repository contains python notebooks of some machine learning algorithms for better understanding.
+This repository contains python notebooks of some machine learning algorithms.
 
 **Notebooks**:
-1. [Dictionary learning](notebooks/Dictionary_Learning.ipynb): contains the following
+1. [Basic python (Numpy, matplotlib, scikit-image)](notebooks/101_python.ipynb): a patch extraction techique, that may be used
+for future medical patch-based classification/segmentation,  is provided at the end.
+
+2. [Feed-forward neural networks](notebooks/102_feedforward_neural_networks.ipynb): a touch of theory + a digit classification application.
+
+3. [Gradient descent for deep learning](notebooks/Gradient_Methods.ipynb): contains the following
+    - The standard **Gradient Descent** (GD) algorithm
+    - The **GD+Momentum** algorithm
+    - The **AdaDelta** algorithm 
+    - The **Adam** algorithm
+
+4. [Loss Landscape](notebooks/Loss_landscape.ipynb): visualizing the loss landscape on the MNIST database using 2 random directions.
+
+5. [Dictionary learning](notebooks/Dictionary_Learning.ipynb): contains the following
     - The Iterative Shrinkage and Thresholding Algorithm (ISTA)
     - The Coordinate Descent (CD) algorithm for $\ell_1$ sparse coding
     - The Block-Coordinate Descent (BCD) algorithm for dictionary learning
     - The Online Dictionary Learning (OLD) algorithm
-2. [Gradient descent for deep learning](notebooks/Gradient_Methods.ipynb): contains the following
-    - The standard Gradient Descent (GD) algorithm
-    - The GD+momentum algorithm
-    - The AdaDelta algorithm 
-    - The Adam algorithm
-3. [Loss Landscape](notebooks/Loss_landscape.ipynb): visualizing the loss landscape on the MNIST database using 2 random directions.
 
 
 **Environment**: The following software/libraries may be needed to run all the notebooks:
