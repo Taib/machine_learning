@@ -8,6 +8,8 @@ for future medical patch-based classification/segmentation,  is provided at the 
 
 2. [Feed-forward neural networks](notebooks/102_feedforward_neural_networks.ipynb): a touch of theory + a digit classification application.
 
+2. [Convolutional neural networks](notebooks/103_convolutinal_neural_networks.ipynb): Definition + Cifar10 object classification.
+
 3. [Gradient descent for deep learning](notebooks/Gradient_Methods.ipynb): contains the following
     - The standard **Gradient Descent** (GD) algorithm
     - The **GD+Momentum** algorithm
