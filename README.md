@@ -10,6 +10,8 @@ for future medical patch-based classification/segmentation,  is provided at the 
 
 2. [Convolutional neural networks](notebooks/103_convolutinal_neural_networks.ipynb): Definition + Cifar10 object classification.
 
+2. [Fully Convolutional neural networks](notebooks/104_fully_convolutional_nets.ipynb): Retinal blood vessel segmentation.
+
 3. [Gradient descent for deep learning](notebooks/Gradient_Methods.ipynb): contains the following
     - The standard **Gradient Descent** (GD) algorithm
     - The **GD+Momentum** algorithm
