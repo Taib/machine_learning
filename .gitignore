@@ -1,3 +1,4 @@
 notebooks/.*
 notebooks/10X*
-notebooks/105*
+notebooks/105_generative_aversarial_nets-*
+notebooks/105_generative_aversarial_nets_*

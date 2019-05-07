@@ -12,6 +12,8 @@ for future medical patch-based classification/segmentation,  is provided at the 
 
 2. [Fully Convolutional neural networks](notebooks/104_fully_convolutional_nets.ipynb): Retinal blood vessel segmentation.
 
+2. [Generative adversarial networks](notebooks/105_generative_aversarial_nets.ipynb): MNIST image generation.
+
 3. [Gradient descent for deep learning](notebooks/Gradient_Methods.ipynb): contains the following
     - The standard **Gradient Descent** (GD) algorithm
     - The **GD+Momentum** algorithm
